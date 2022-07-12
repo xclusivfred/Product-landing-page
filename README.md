@@ -1,2 +1,4 @@
 # Product-landing-page
-A product landing page to showcase megry's treats
+- my freecodecamp certification project
+- Course: Responsive web design
+- to test my knowledge on HTML(Hypertext markup language)  and CSS(Cascading style sheets).
