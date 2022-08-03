@@ -41,7 +41,7 @@ https://xclusivfred.github.io/Product-landing-page/
 
 # Features
 
-- Responsive
+- Mobile Responsive
 
 
 # 🛠 Skills
