@@ -2,11 +2,6 @@
 
 A post-click page on a website designed specifically to promote product 
 
-
-## Objective:
-
-To build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
-
 ## Prerequisite
 
 • Laptop or desktop
