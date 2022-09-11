@@ -8,7 +8,7 @@ A post-click page on a website designed specifically to promote product
 
 • Text editor or IDE(eg, vs code, brackets, etc.)
 
-# Tech Stack
+## Tech Stack
 
 **Client:** HTML, CSS.
 
