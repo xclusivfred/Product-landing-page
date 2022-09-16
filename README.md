@@ -25,7 +25,7 @@ A post-click page on a website designed specifically to promote product
 https://xclusivfred.github.io/Product-landing-page/
 
 
-# Authors
+## Authors
 
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
 
