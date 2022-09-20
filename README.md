@@ -30,7 +30,7 @@ https://xclusivfred.github.io/Product-landing-page/
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
 
 
-# Acknowledgements
+## Acknowledgements
 
  - [Freecodecamp.org](https://freecodecamp.org/)
 
