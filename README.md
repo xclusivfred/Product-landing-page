@@ -34,7 +34,7 @@ https://xclusivfred.github.io/Product-landing-page/
 
  - [Freecodecamp.org](https://freecodecamp.org/)
 
-# Features
+## Features
 
 - Mobile Responsive
 
