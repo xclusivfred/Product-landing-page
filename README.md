@@ -39,6 +39,6 @@ https://xclusivfred.github.io/Product-landing-page/
 - Mobile Responsive
 
 
-# 🛠 Skills
+## 🛠 Skills
 HTML, CSS.
 
